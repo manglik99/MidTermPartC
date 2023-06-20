@@ -15,6 +15,13 @@ package midtermexam_versiona_extensioncode;
  */
 public class UserProfile 
 {
+
+    /*
+    Hi I made some changes..
+
+
+    
+    */
     
     private String userID;//the userID
     private String genre;// the user's preferred genre of movie
